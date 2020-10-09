@@ -1,7 +1,6 @@
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\bin\Debug\netstandard2.0\1975_PaymentContext.Shared.deps.json
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\bin\Debug\netstandard2.0\1975_PaymentContext.Shared.dll
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\bin\Debug\netstandard2.0\1975_PaymentContext.Shared.pdb
-C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.csprojAssemblyReference.cache
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.AssemblyInfoInputs.cache
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.AssemblyInfo.cs
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.csproj.CoreCompileInputs.cache

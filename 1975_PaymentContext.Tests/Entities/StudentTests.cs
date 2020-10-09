@@ -10,9 +10,9 @@ namespace _1975_PaymentContext.Tests
         public void AdicionarAssinatura()
         {
             var subscription = new Subscription(null);
-            var student = new Student("Flavio", "Zavarise", "13120696781", "flaviofz@gmail.com");
+            //var student = new Student("Flavio", "Zavarise", "13120696781", "flaviofz@gmail.com");
 
-            student.AddSubscription(subscription);
+            //student.AddSubscription(subscription);
 
             //var payment = new PayPalPayment();
         }
