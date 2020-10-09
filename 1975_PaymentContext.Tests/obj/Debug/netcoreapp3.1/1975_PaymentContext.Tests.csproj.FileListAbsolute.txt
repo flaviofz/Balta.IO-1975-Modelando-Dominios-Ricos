@@ -84,6 +84,10 @@ C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\bin\
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\bin\Debug\netcoreapp3.1\1975_PaymentContext.Domain.dll
+C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\bin\Debug\netcoreapp3.1\1975_PaymentContext.Shared.dll
+C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\bin\Debug\netcoreapp3.1\1975_PaymentContext.Domain.pdb
+C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\bin\Debug\netcoreapp3.1\1975_PaymentContext.Shared.pdb
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\obj\Debug\netcoreapp3.1\1975_PaymentContext.Tests.csprojAssemblyReference.cache
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\obj\Debug\netcoreapp3.1\1975_PaymentContext.Tests.AssemblyInfoInputs.cache
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\obj\Debug\netcoreapp3.1\1975_PaymentContext.Tests.AssemblyInfo.cs
@@ -92,7 +96,3 @@ C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\obj\
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\obj\Debug\netcoreapp3.1\1975_PaymentContext.Tests.dll
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\obj\Debug\netcoreapp3.1\1975_PaymentContext.Tests.pdb
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\obj\Debug\netcoreapp3.1\1975_PaymentContext.Tests.genruntimeconfig.cache
-C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\bin\Debug\netcoreapp3.1\1975_PaymentContext.Domain.dll
-C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\bin\Debug\netcoreapp3.1\1975_PaymentContext.Shared.dll
-C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\bin\Debug\netcoreapp3.1\1975_PaymentContext.Domain.pdb
-C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\bin\Debug\netcoreapp3.1\1975_PaymentContext.Shared.pdb
