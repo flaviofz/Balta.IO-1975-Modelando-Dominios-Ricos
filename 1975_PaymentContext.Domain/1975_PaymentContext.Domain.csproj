@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\1975_PaymentContext.Shared\1975_PaymentContext.Shared.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>_1975_PaymentContext.Domain</RootNamespace>
+  </PropertyGroup>
+
+</Project>
