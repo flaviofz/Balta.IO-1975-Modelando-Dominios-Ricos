@@ -1,4 +1,5 @@
 using _1975_PaymentContext.Domain.Entities;
+using _1975_PaymentContext.Domain.ValueObjects;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace _1975_PaymentContext.Tests
@@ -9,12 +10,12 @@ namespace _1975_PaymentContext.Tests
         [TestMethod]
         public void AdicionarAssinatura()
         {
-            var subscription = new Subscription(null);
-            //var student = new Student("Flavio", "Zavarise", "13120696781", "flaviofz@gmail.com");
+            var name = new Name("Teste", "Teste");
+            // foreach (var notification in name.Notifications)
+            // {
+            //     notification.Message;
+            // }
 
-            //student.AddSubscription(subscription);
-
-            //var payment = new PayPalPayment();
         }
     }
 }
