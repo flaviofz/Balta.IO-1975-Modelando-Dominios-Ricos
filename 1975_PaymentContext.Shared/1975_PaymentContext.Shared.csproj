@@ -5,4 +5,8 @@
     <RootNamespace>_1975_PaymentContext.Shared</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="flunt" Version="1.0.5" />
+  </ItemGroup>
+
 </Project>
