@@ -96,3 +96,4 @@ C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\obj\
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\obj\Debug\netcoreapp3.1\1975_PaymentContext.Tests.dll
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\obj\Debug\netcoreapp3.1\1975_PaymentContext.Tests.pdb
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\obj\Debug\netcoreapp3.1\1975_PaymentContext.Tests.genruntimeconfig.cache
+C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Tests\bin\Debug\netcoreapp3.1\Flunt.dll
