@@ -5777,19 +5777,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Flavio\\.nuget\\packages\\": {}
+    "C:\\Users\\flavio.code\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Flavio\\Documents\\Git\\1975_PaymentContext\\1975_PaymentContext.Tests\\1975_PaymentContext.Tests.csproj",
+      "projectUniqueName": "C:\\Flavio\\Balta.IO-1975-Modelando-Dominios-Ricos\\1975_PaymentContext.Tests\\1975_PaymentContext.Tests.csproj",
       "projectName": "1975_PaymentContext.Tests",
-      "projectPath": "C:\\Users\\Flavio\\Documents\\Git\\1975_PaymentContext\\1975_PaymentContext.Tests\\1975_PaymentContext.Tests.csproj",
-      "packagesPath": "C:\\Users\\Flavio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Flavio\\Documents\\Git\\1975_PaymentContext\\1975_PaymentContext.Tests\\obj\\",
+      "projectPath": "C:\\Flavio\\Balta.IO-1975-Modelando-Dominios-Ricos\\1975_PaymentContext.Tests\\1975_PaymentContext.Tests.csproj",
+      "packagesPath": "C:\\Users\\flavio.code\\.nuget\\packages\\",
+      "outputPath": "C:\\Flavio\\Balta.IO-1975-Modelando-Dominios-Ricos\\1975_PaymentContext.Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Flavio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\flavio.code\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5802,11 +5806,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Flavio\\Documents\\Git\\1975_PaymentContext\\1975_PaymentContext.Domain\\1975_PaymentContext.Domain.csproj": {
-              "projectPath": "C:\\Users\\Flavio\\Documents\\Git\\1975_PaymentContext\\1975_PaymentContext.Domain\\1975_PaymentContext.Domain.csproj"
+            "C:\\Flavio\\Balta.IO-1975-Modelando-Dominios-Ricos\\1975_PaymentContext.Domain\\1975_PaymentContext.Domain.csproj": {
+              "projectPath": "C:\\Flavio\\Balta.IO-1975-Modelando-Dominios-Ricos\\1975_PaymentContext.Domain\\1975_PaymentContext.Domain.csproj"
             },
-            "C:\\Users\\Flavio\\Documents\\Git\\1975_PaymentContext\\1975_PaymentContext.Shared\\1975_PaymentContext.Shared.csproj": {
-              "projectPath": "C:\\Users\\Flavio\\Documents\\Git\\1975_PaymentContext\\1975_PaymentContext.Shared\\1975_PaymentContext.Shared.csproj"
+            "C:\\Flavio\\Balta.IO-1975-Modelando-Dominios-Ricos\\1975_PaymentContext.Shared\\1975_PaymentContext.Shared.csproj": {
+              "projectPath": "C:\\Flavio\\Balta.IO-1975-Modelando-Dominios-Ricos\\1975_PaymentContext.Shared\\1975_PaymentContext.Shared.csproj"
             }
           }
         }
@@ -5856,7 +5860,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
