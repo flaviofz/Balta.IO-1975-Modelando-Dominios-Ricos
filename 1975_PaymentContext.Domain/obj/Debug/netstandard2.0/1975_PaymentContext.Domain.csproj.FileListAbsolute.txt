@@ -10,3 +10,15 @@ C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Domain\obj
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Domain\obj\Debug\netstandard2.0\1975_PaymentContext.Domain.csproj.CopyComplete
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Domain\obj\Debug\netstandard2.0\1975_PaymentContext.Domain.dll
 C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Domain\obj\Debug\netstandard2.0\1975_PaymentContext.Domain.pdb
+c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Domain\bin\Debug\netstandard2.0\1975_PaymentContext.Domain.deps.json
+c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Domain\bin\Debug\netstandard2.0\1975_PaymentContext.Domain.dll
+c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Domain\bin\Debug\netstandard2.0\1975_PaymentContext.Domain.pdb
+c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Domain\bin\Debug\netstandard2.0\1975_PaymentContext.Shared.dll
+c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Domain\bin\Debug\netstandard2.0\1975_PaymentContext.Shared.pdb
+c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Domain\obj\Debug\netstandard2.0\1975_PaymentContext.Domain.csprojAssemblyReference.cache
+c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Domain\obj\Debug\netstandard2.0\1975_PaymentContext.Domain.AssemblyInfoInputs.cache
+c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Domain\obj\Debug\netstandard2.0\1975_PaymentContext.Domain.AssemblyInfo.cs
+c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Domain\obj\Debug\netstandard2.0\1975_PaymentContext.Domain.csproj.CoreCompileInputs.cache
+c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Domain\obj\Debug\netstandard2.0\1975_PaymentContext.Domain.csproj.CopyComplete
+c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Domain\obj\Debug\netstandard2.0\1975_PaymentContext.Domain.dll
+c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Domain\obj\Debug\netstandard2.0\1975_PaymentContext.Domain.pdb

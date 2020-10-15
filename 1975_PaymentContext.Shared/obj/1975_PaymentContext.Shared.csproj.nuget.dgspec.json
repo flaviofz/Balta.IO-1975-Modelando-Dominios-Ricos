@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Flavio\\Documents\\Git\\1975_PaymentContext\\1975_PaymentContext.Shared\\1975_PaymentContext.Shared.csproj": {}
+    "C:\\Flavio\\Balta.IO-1975-Modelando-Dominios-Ricos\\1975_PaymentContext.Shared\\1975_PaymentContext.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Flavio\\Documents\\Git\\1975_PaymentContext\\1975_PaymentContext.Shared\\1975_PaymentContext.Shared.csproj": {
+    "C:\\Flavio\\Balta.IO-1975-Modelando-Dominios-Ricos\\1975_PaymentContext.Shared\\1975_PaymentContext.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Flavio\\Documents\\Git\\1975_PaymentContext\\1975_PaymentContext.Shared\\1975_PaymentContext.Shared.csproj",
+        "projectUniqueName": "C:\\Flavio\\Balta.IO-1975-Modelando-Dominios-Ricos\\1975_PaymentContext.Shared\\1975_PaymentContext.Shared.csproj",
         "projectName": "1975_PaymentContext.Shared",
-        "projectPath": "C:\\Users\\Flavio\\Documents\\Git\\1975_PaymentContext\\1975_PaymentContext.Shared\\1975_PaymentContext.Shared.csproj",
-        "packagesPath": "C:\\Users\\Flavio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Flavio\\Documents\\Git\\1975_PaymentContext\\1975_PaymentContext.Shared\\obj\\",
+        "projectPath": "C:\\Flavio\\Balta.IO-1975-Modelando-Dominios-Ricos\\1975_PaymentContext.Shared\\1975_PaymentContext.Shared.csproj",
+        "packagesPath": "C:\\Users\\flavio.code\\.nuget\\packages\\",
+        "outputPath": "C:\\Flavio\\Balta.IO-1975-Modelando-Dominios-Ricos\\1975_PaymentContext.Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Flavio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\flavio.code\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,7 +62,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
