@@ -1,9 +1,10 @@
 using System;
 using _1975_PaymentContext.Domain.Enums;
+using _1975_PaymentContext.Shared.Commands;
 
 namespace _1975_PaymentContext.Domain.Commands
 {
-    public class CreatePayPalSubscriptionCommand
+    public class CreatePayPalSubscriptionCommand : ICommand
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
@@ -27,5 +28,10 @@ namespace _1975_PaymentContext.Domain.Commands
         public string State { get; set; }
         public string Country { get; set; }
         public string ZipCode { get; set; }
+
+        public void Validate()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
