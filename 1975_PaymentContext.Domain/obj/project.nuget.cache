@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9b8TaPcAuhmTW4DMDdRoEbx77CLyLhN385gyj6xolYbdGVZ249s0JijXTbzSfdN+5qcFBtZBR2nZwHfNgwLiGw==",
+  "dgSpecHash": "/MzY20hdxG24Z/07vxhFJhObAA+L1iKLUB9dKC4ljKP9Zk2rQQ0PJWRqd6LIp6SjNIx1nohyMsag39utRucuRQ==",
   "success": true,
-  "projectFilePath": "C:\\Flavio\\Balta.IO-1975-Modelando-Dominios-Ricos\\1975_PaymentContext.Domain\\1975_PaymentContext.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Flavio\\Documents\\Git\\1975_PaymentContext\\1975_PaymentContext.Domain\\1975_PaymentContext.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\flavio.code\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
-    "C:\\Users\\flavio.code\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\flavio.code\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Flavio\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\Flavio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Flavio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
