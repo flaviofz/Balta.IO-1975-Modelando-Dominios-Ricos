@@ -1,12 +1,3 @@
-C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\bin\Debug\netstandard2.0\1975_PaymentContext.Shared.deps.json
-C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\bin\Debug\netstandard2.0\1975_PaymentContext.Shared.dll
-C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\bin\Debug\netstandard2.0\1975_PaymentContext.Shared.pdb
-C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.AssemblyInfoInputs.cache
-C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.AssemblyInfo.cs
-C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.csproj.CoreCompileInputs.cache
-C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.dll
-C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.pdb
-C:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.csprojAssemblyReference.cache
 c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Shared\bin\Debug\netstandard2.0\1975_PaymentContext.Shared.deps.json
 c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Shared\bin\Debug\netstandard2.0\1975_PaymentContext.Shared.dll
 c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Shared\bin\Debug\netstandard2.0\1975_PaymentContext.Shared.pdb
@@ -16,3 +7,12 @@ c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Shared\obj\
 c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.csproj.CoreCompileInputs.cache
 c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.dll
 c:\Flavio\Balta.IO-1975-Modelando-Dominios-Ricos\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.pdb
+c:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\bin\Debug\netstandard2.0\1975_PaymentContext.Shared.deps.json
+c:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\bin\Debug\netstandard2.0\1975_PaymentContext.Shared.dll
+c:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\bin\Debug\netstandard2.0\1975_PaymentContext.Shared.pdb
+c:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.csprojAssemblyReference.cache
+c:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.AssemblyInfoInputs.cache
+c:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.AssemblyInfo.cs
+c:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.csproj.CoreCompileInputs.cache
+c:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.dll
+c:\Users\Flavio\Documents\Git\1975_PaymentContext\1975_PaymentContext.Shared\obj\Debug\netstandard2.0\1975_PaymentContext.Shared.pdb
